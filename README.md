@@ -7,4 +7,6 @@ Reference links:
 
 (2) https://www.kaggle.com/code/surajiiitm/k-means-clustering-in-python-from-scratch
 
-Data Source from: https://www.kaggle.com/code/shrutimechlearn/step-by-step-kmeans-explained-in-detail/data
+Data Source from: 
+
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-kmeans-explained-in-detail/data
